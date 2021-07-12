@@ -1,3 +1,4 @@
+PHP Array
 ARRAY : sebuah variabel yang bisa menampung/memiliki lebih dari satu nilai/elemen. 
 di dalam php ada 2 cara membuat array :
     1. cara lama
