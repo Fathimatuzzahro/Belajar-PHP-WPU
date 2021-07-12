@@ -1,4 +1,4 @@
-FUNCTION
+PHP FUNCTION
 adalah potongan program/baris-baris kode yg kita buat untuk mempermudah kita pada saat membuat program.
 kode program tadi bisa kita kasih nama, lalu bisa kita panggil berulang-ulang
 ada 2 jenis function :
