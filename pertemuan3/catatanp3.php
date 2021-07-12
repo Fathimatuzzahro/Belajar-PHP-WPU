@@ -1,4 +1,4 @@
-Pertemuan 3 PHP Dasar
+PHP Struktur Kendali
 A. Pengulangan : for, while, do-while, foreach (pengulangan khusus array)
 <?php
 for ($i = 0; $i < 5; $i++) {
