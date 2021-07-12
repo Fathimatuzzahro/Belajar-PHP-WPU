@@ -1,4 +1,4 @@
-catatan :
+PHP Sintaks
 // Pertemuan 2 - PHP Dasar
 Sintaks PHP
 // ini adalah syntax untuk memberi komentar
