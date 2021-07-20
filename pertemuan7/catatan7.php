@@ -1,4 +1,4 @@
-REQUEST METHODE GET & POST
+PHP Dasar - REQUEST METHODE GET & POST
 sebelumnya, kita perlu mempelajari hal2 berikut :
     1. superglobals : variabel yg dimiliki oleh PHP. variabelnya mrpkn variabel spesial. 
     sebelum mempelajari variabel superglobals ini, kita harus memahami variabel scoupe (lingkup dr sebuah variabel di dalam PHP)
