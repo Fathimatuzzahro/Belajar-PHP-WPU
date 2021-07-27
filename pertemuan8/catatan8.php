@@ -1,4 +1,3 @@
-PHP Dasar
 DATABASE - MYSQL
     1. Data : representasi fakta di dunia nyata. 
     contoh data : nama, judul buku, no KTP, harga, foto, dokumen, video, dll
