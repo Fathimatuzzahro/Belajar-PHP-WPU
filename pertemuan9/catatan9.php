@@ -1,3 +1,4 @@
+PHP Dasar
 PHP + MYSQL
     untuk menghubungkan website dg database mysql ada beberapa cara :
         1. ekstensi MySQL (versi lama, sudsh tdk diupdate, dan banyak celahnya)
